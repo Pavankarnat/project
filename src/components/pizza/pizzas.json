@@ -1,0 +1,139 @@
+[
+  {
+    "id": "0001",
+    "type": "veg",
+    "price": 290,
+    "name": "Paneer Tikka",
+    "image": "https://thumb9.shutterstock.com/display_pic_with_logo/376831/127528958/stock-photo-delicious-italian-pizza-over-white-127528958.jpg",
+    "description": "This is a popular Italian pizza flavoured with marinated tikka sauce and paneer.",
+    "ingredients": [
+      "dough/flour",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese"
+    ],
+    "topping": [
+      "Paneer",
+      "Fried Onion",
+      "Green Olive",
+      "Capsicum",
+      "Red Paprika"
+    ]
+  },
+  {
+    "id": "0002",
+    "type": "nonveg",
+    "price": 350,
+    "name": "Chicken Italiana",
+    "image": "https://thumb7.shutterstock.com/display_pic_with_logo/96886/96886,1274350207,7/stock-photo-pizza-53553874.jpg",
+    "description": "This is a popular Italian pizza flavoured with a light sugary taste and creamy touch.",
+    "ingredients": [
+      "deep dish pizza mix",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese",
+      "sugar and cinnamon blend",
+      "plain butter"
+    ],
+    "topping": [
+      "Pepperoni",
+      "Chicken Sausage",
+      "Mushroom",
+      "Capsicum",
+      "Black Beans"
+    ]
+  },
+  {
+    "id": "0003",
+    "type": "veg",
+    "price": 310,
+    "name": "Veggie Supreme",
+    "image": "https://thumb1.shutterstock.com/display_pic_with_logo/1003451/770556520/stock-photo-hot-pizza-with-pepperoni-sausage-on-a-dark-background-with-copy-space-pizza-with-mushrooms-770556520.jpg",
+    "description": "This is a popular Italian pizza flavoured with crushed garlic and herbs, topped with sweet corn.",
+    "ingredients": [
+      "deep dish pizza mix",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese",
+      "garlic herbs",
+      "flavored butter"
+    ],
+    "topping": [
+      "Fried Onion",
+      "Sweet Corn",
+      "Mushroom",
+      "Capsicum",
+      "Black Olive"
+    ]
+  },
+  {
+    "id": "0004",
+    "type": "nonveg",
+    "price": 400,
+    "name": "Triple Chicken Feast",
+    "image": "https://thumb9.shutterstock.com/display_pic_with_logo/2793292/332497832/stock-photo-mixture-pizza-italian-food-332497832.jpg",
+    "description": "This is a popular Italian pizza flavoured with unique Greek dressing, topped with chicken keema and meatballs.",
+    "ingredients": [
+      "low carb pizza dough",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese",
+      "Greek dressing",
+      "Cajun seasoning"
+    ],
+    "topping": [
+      "Chicken Keema",
+      "Fried Onion",
+      "Chicken Meatball",
+      "Capsicum",
+      "Sweet Corn"
+    ]
+  },
+  {
+    "id": "0005",
+    "type": "nonveg",
+    "price": 625,
+    "name": "Ultimate Chicken",
+    "image": "https://thumb7.shutterstock.com/display_pic_with_logo/2793292/246331354/stock-photo-pizza-margherita-italian-246331354.jpg",
+    "description": "This is a popular Italian pizza flavoured with BBQ sauce and butter, featuring a soft spongy base with multiple chicken toppings.",
+    "ingredients": [
+      "deep dish pizza mix",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese",
+      "BBQ sauce",
+      "Cajun seasoning",
+      "flavored butter"
+    ],
+    "topping": [
+      "Pepperoni",
+      "Fried Onion",
+      "Chicken Meatball",
+      "Chicken Sausage",
+      "Chicken Keema"
+    ]
+  },
+  {
+    "id": "0006",
+    "type": "nonveg",
+    "price": 400,
+    "name": "Triple Chicken Feast",
+    "image": "https://thumb9.shutterstock.com/display_pic_with_logo/2793292/332497832/stock-photo-mixture-pizza-italian-food-332497832.jpg",
+    "description": "This is a popular Italian pizza flavoured with unique Greek dressing, topped with chicken keema and meatballs.",
+    "ingredients": [
+      "low carb pizza dough",
+      "pizza sauce",
+      "pizza sauce seasoning",
+      "cheese",
+      "Greek dressing",
+      "Cajun seasoning"
+    ],
+    "topping": [
+      "Chicken Keema",
+      "Fried Onion",
+      "Chicken Meatball",
+      "Capsicum",
+      "Sweet Corn"
+    ]
+  }
+]
